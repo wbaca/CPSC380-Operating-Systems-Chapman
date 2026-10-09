@@ -1,5 +1,0 @@
-num_processes,avg_burst,max_burst,min_burst,std_burst,avg_arrival_gap,optimal_quantum
-4.0,6.5,9.0,4.0,2.1,1.0,8
-6.0,6.5,10.0,3.0,2.6,1.0,20
-9.0,5.8,10.0,2.0,2.9,0.9,10
-9.0,5.3,10.0,2.0,3.0,0.5,20
