@@ -1,0 +1,13 @@
+TLB Policy,Page Policy,Frames,Total,Page Fault Rate,TLB Hit Rate,Page Faults,TLB Hits,TLB Misses
+lru,fifo,128,1000,53.80,5.50,538,55,945
+lru,lru,128,1000,53.70,5.50,537,55,945
+lru,random,128,1000,54.80,5.60,548,56,944
+lru,fifo,256,1000,24.40,5.50,244,55,945
+lru,lru,256,1000,24.40,5.50,244,55,945
+lru,random,256,1000,24.40,5.50,244,55,945
+random,fifo,128,1000,53.80,6.00,538,60,940
+random,lru,128,1000,53.90,6.10,539,61,939
+random,random,128,1000,54.50,5.80,545,58,942
+random,fifo,256,1000,24.40,6.10,244,61,939
+random,lru,256,1000,24.40,6.10,244,61,939
+random,random,256,1000,24.40,6.10,244,61,939
